@@ -6,15 +6,23 @@ Projeto de um login screen do LOL, promovido pel Manual do DEV para ensino de te
 
 
 <p align="center">
+  <a href="#-overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://mario-jump-game-woad.vercel.app/">🎉Deploy do Projeto!🎉</a>
+  <a href="https://league-of-legends-login-theta.vercel.app/">🎉Deploy do Projeto!🎉</a>
 </p>
 
 <br>
+
+
+## 💻 Overview
+
+![overview](https://user-images.githubusercontent.com/50434810/197939319-4d0a5c42-ec48-49d0-bbd4-2a13ae8252cc.png)
+
+
 
 ## 🚀 Tecnologias
 
